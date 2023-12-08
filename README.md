@@ -1,5 +1,5 @@
 # hello-world
-## a short description
+a short description
 
 this is short story about this website and my pet mosquito
 
